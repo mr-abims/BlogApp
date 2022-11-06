@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest --detectOpenHandles",
     "start:dev": "nodemon app.js"
-     "build": "app.js"
+     "start": "app.js"
   },
   "keywords": [],
   "author": "",
