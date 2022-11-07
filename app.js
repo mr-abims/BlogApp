@@ -5,7 +5,7 @@ const blog = require("./routes/blog");
 require("dotenv").config();
 const app = express();
 
-require("./passport.js");
+// require("./passport.js");
 
 // Middleware
 app.use(express.json());
